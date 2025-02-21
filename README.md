@@ -1,2 +1,2 @@
 # clone-tabnews
-Fazendo um tabnews.com.br do zero com o curso.dev
+Fazendo um https://www.tabnews.com.br do zero com o https://www.curso.dev
